@@ -1,0 +1,14 @@
+c:\Users\Hai Dang\Downloads\New folder\demoC#\bin\Debug\net8.0\demoC#.exe
+c:\Users\Hai Dang\Downloads\New folder\demoC#\bin\Debug\net8.0\demoC#.deps.json
+c:\Users\Hai Dang\Downloads\New folder\demoC#\bin\Debug\net8.0\demoC#.runtimeconfig.json
+c:\Users\Hai Dang\Downloads\New folder\demoC#\bin\Debug\net8.0\demoC#.dll
+c:\Users\Hai Dang\Downloads\New folder\demoC#\bin\Debug\net8.0\demoC#.pdb
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.AssemblyInfoInputs.cache
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.AssemblyInfo.cs
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.csproj.CoreCompileInputs.cache
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.dll
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\refint\demoC#.dll
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.pdb
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\demoC#.genruntimeconfig.cache
+c:\Users\Hai Dang\Downloads\New folder\demoC#\obj\Debug\net8.0\ref\demoC#.dll
